@@ -1,0 +1,23 @@
+.data_table_main_div {
+  width: 40%;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.comment_table_main_div {
+  width: 90% !important;
+}
+
+.dataTables_wrapper .dataTables_length select {
+  width: 50px !important;
+}
+
+.data_table_main_div #myTable {
+  border: 1px solid #ccc;
+  transform: translateY(10px);
+  margin: 20px 0px;
+}
+
+.data_table_main_div #myTable tbody {
+  text-align: center;
+}
